@@ -1,10 +1,10 @@
 __pycache__
 .DS_Store
 data
-notebooks
+.ipynb_c*
 
 #Compiled source#
-*.pyc
+.pyc
 
 #Backup#
 *~
